@@ -8,7 +8,7 @@
   ],
   "uart": true,
   "udev": true,
-  "url": "https://github.com/cantause/hassio-zigbee2mqtt-instance2/tree/master/zigbee2mqtt-instance2"
+  "url": "https://github.com/cantause/hassio-zigbee2mqtt-instance2/tree/master/zigbee2mqtt-instance2",
   "startup": "application",
   "services": [
     "mqtt:need"
